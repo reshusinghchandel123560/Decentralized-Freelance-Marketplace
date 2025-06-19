@@ -95,4 +95,5 @@ Our vision is to revolutionize the freelance industry by creating a decentralize
 
 
 Contract Address: 0x40B7c839a030CD8aa2987975430170E7f9C86fF1
-![Screenshot (4)](https://github.com/user-attachments/assets/1c8447aa-5d60-4147-9a13-a08c78486da1)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/fb846af0-67ce-49bd-9a7f-95b226518507)
